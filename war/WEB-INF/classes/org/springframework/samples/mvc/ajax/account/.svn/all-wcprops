@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-samples/!svn/ver/298/mvc-ajax/trunk/src/main/java/org/springframework/samples/mvc/ajax/account
+END
+AccountController.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-samples/!svn/ver/298/mvc-ajax/trunk/src/main/java/org/springframework/samples/mvc/ajax/account/AccountController.java
+END
+ResourceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-samples/!svn/ver/278/mvc-ajax/trunk/src/main/java/org/springframework/samples/mvc/ajax/account/ResourceNotFoundException.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-samples/!svn/ver/292/mvc-ajax/trunk/src/main/java/org/springframework/samples/mvc/ajax/account/Account.java
+END
+AvailabilityStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-samples/!svn/ver/298/mvc-ajax/trunk/src/main/java/org/springframework/samples/mvc/ajax/account/AvailabilityStatus.java
+END
